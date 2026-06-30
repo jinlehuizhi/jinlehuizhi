@@ -1,0 +1,25 @@
+# app-ads.txt for Beijing Jinle Huizhi Human Resources Co., Ltd
+# Last Updated: December 15, 2024
+
+# This file is used for app-ads.txt verification by advertising platforms
+# For mobile applications with advertising
+
+# Add your ad network publisher IDs below
+# Example format: NETWORK_ID = PUBLISHER_ID
+
+# Google AdMob
+# admob-pub-id = pub-XXXXXXXXXXXXXXXX
+
+# Facebook Audience Network
+# audience-network-pub-id = PUB_ID_HERE
+
+# Unity Ads
+# unity-pub-id = PUB_ID_HERE
+
+# AppLovin
+# applovin-pub-id = PUB_ID_HERE
+
+# ironSource
+# ironsource-pub-id = PUB_ID_HERE
+
+# For assistance, contact: support@jinlehuizhi.com
